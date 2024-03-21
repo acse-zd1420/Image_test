@@ -1,0 +1,3 @@
+/Users/zd1420/Documents/ACSE/C++/Advance Programming/image_test/build/CMakeFiles/image.dir
+/Users/zd1420/Documents/ACSE/C++/Advance Programming/image_test/build/CMakeFiles/edit_cache.dir
+/Users/zd1420/Documents/ACSE/C++/Advance Programming/image_test/build/CMakeFiles/rebuild_cache.dir
